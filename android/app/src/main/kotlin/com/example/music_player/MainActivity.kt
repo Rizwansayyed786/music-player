@@ -1,4 +1,4 @@
-package com.example.music_player
+package com.application.zomato
 
 import io.flutter.embedding.android.FlutterActivity
 
